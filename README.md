@@ -2,14 +2,14 @@ ECHO est� activado.
 # 🌟 Actividad 1
 
 ## 📋 Datos personales
-**Nombre:** José Patricio Pérez Negrete
-**Matrícula:** AL02916981
-**Carrera:** IDS (Ingeniería en Desarrollo de Software)
-**# Semestre:** 6
+- **Nombre:** José Patricio Pérez Negrete
+- **Matrícula:** AL02916981
+- **Carrera:** IDS (Ingeniería en Desarrollo de Software)
+- **# Semestre:** 6
 
 ## 📋 Datos del curso
-**Materia:** Diseño de aplicaciones web
-**Maestr@:** Aidee Soledad Aragon Cruz
+- **Materia:** Diseño de aplicaciones web
+- **Maestr@:** Aidee Soledad Aragon Cruz
 
 ---
 
